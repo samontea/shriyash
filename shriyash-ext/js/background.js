@@ -7,6 +7,7 @@ var replacements = [
 	["GROUPS", "The friends Shriyash doesn't have."],
 	["INTERESTS", "Things Shriyash Likes"],
 	["Hackers", "Shriyash"],
+	["Status", "Shriyash"],
 	["Profile", "Shriyash"]
 ];
 //Default Blacklist
