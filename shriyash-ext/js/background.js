@@ -8,10 +8,12 @@ var replacements = [
 	["INTERESTS", "Things Shriyash Likes"],
 	["EVENTS", "Places Shriyash Might Go"],
 	["an event", "Shriyash"],
-	["his", "Shriyash's"],
-	["her", "Shriyash's"],
 	["Hackers", "Shriyash"],
 	["Status", "Shriyash"],
+	["Like", "Shriyash"],
+	["Comment", "Shriyash"],
+	["Share", "Shriyash"],
+	["this", "Shriyash"],
 	["Profile", "Shriyash"]
 ];
 //Default Blacklist
