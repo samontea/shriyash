@@ -7,7 +7,7 @@ var replacements = [
 	["GROUPS", "The friends Shriyash doesn't have."],
 	["INTERESTS", "Things Shriyash Likes"],
 	["EVENTS", "Places Shriyash Might Go"],
-	["Event", "Shriyash"],
+	["an event", "Shriyash"],
 	["his", "Shriyash's"],
 	["her", "Shriyash's"],
 	["Hackers", "Shriyash"],
