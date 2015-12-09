@@ -23,5 +23,8 @@
   ],
   "icons": {
     "128": "images/shriyash.png"
-  }
+  },
+  "web_accessible_resources": [
+    "images/*.png"
+  ]
 }

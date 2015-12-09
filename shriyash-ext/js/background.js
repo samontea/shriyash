@@ -30,6 +30,10 @@ function injectionScript(tabId, info, tab) {
                 file: "js/substitutions.js",
                 runAt: "document_end"
             });
+			chrome.tabs.executeScript(tabId, {
+				file: "js/shriyashsface.js",
+				runAt: "document_end"
+			});
         }
     });
 }
