@@ -5,7 +5,7 @@ Yeah, we were that bored.
 To Download and Install:
 > Download the zip and unpack
 
-1. >Go to <a target="_blank" href="chrome://extensions/">chrome://extensions/</a>
+1. Go to <a target="_blank" href="chrome://extensions/">chrome://extensions/</a>
 
 2. >Click "developer mode" at the top
 
