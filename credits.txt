@@ -1,0 +1,3 @@
+We borrowed a lot of code from Alec Posney's xkcd-substitutions github repo.
+You can find his code at https://github.com/Posnet/xkcd-substitutions.
+Thx Alec ilybae. <3
