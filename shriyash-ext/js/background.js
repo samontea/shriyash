@@ -6,6 +6,10 @@ var replacements = [
 	["APPS", "Shriyash's Hobbies ;)"],
 	["GROUPS", "The friends Shriyash doesn't have."],
 	["INTERESTS", "Things Shriyash Likes"],
+	["EVENTS", "Places Shriyash Might Go"],
+	["Event", "Shriyash"],
+	["his", "Shriyash's"],
+	["her", "Shriyash's"],
 	["Hackers", "Shriyash"],
 	["Status", "Shriyash"],
 	["Profile", "Shriyash"]
