@@ -5,10 +5,10 @@ Yeah, we were that bored.
 To Download and Install:
 > Download the zip and unpack
 
->Go to chrome://extensions/
+1. >Go to chrome://extensions/
 
->Click "developer mode" at the top
+2. >Click "developer mode" at the top
 
->Click "open unpacked extension"
+3. >Click "open unpacked extension"
 
->Open the folder "shriyash-ext"
+4. >Open the folder "shriyash-ext"
