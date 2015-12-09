@@ -13,6 +13,9 @@ var replacements = [
 	["Like", "Shriyash"],
 	["Comment", "Shriyash"],
 	["Share", "Shriyash"],
+	["Conner", "Shriyash"],
+	["Jessica", "Shriyash"],
+	["BoilerMake", "Shriyash"],
 	["this", "Shriyash"],
 	["Profile", "Shriyash"]
 ];
