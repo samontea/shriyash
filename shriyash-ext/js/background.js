@@ -4,7 +4,8 @@ var replacements = [
 	["Facebook", "Shriyash"],
 	["PAGES", "Shriyash's Face"],
 	["APPS", "Shriyash's Hobbies ;)"],
-	["GROUPS", "The friends Shriyash doesn't have."]
+	["GROUPS", "The friends Shriyash doesn't have."],
+	["Profile", "Shriyash"]
 ];
 //Default Blacklist
 var whitelisted_sites = ["www.facebook.com"];
