@@ -17,6 +17,8 @@ var replacements = [
 	["Jessica", "Shriyash"],
 	["BoilerMake", "Shriyash"],
 	["this", "Shriyash"],
+	["tfti", "Shriyash"],
+	["TFTI", "Shriyash"],
 	["Profile", "Shriyash"]
 ];
 //Default Blacklist
